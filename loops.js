@@ -29,7 +29,6 @@ function doWhileLoop (differentArray) {
   return Math.random() >= 0.5
 }
   
-  
   do {
     
   differentArray.length - 1;
