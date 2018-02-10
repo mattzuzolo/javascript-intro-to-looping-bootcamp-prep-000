@@ -1,4 +1,3 @@
-
 function forLoop (myArray) {
   
   for ( let i = 0; i < 25; i++) {
@@ -15,8 +14,6 @@ function forLoop (myArray) {
   return myArray;
 }
 
-
-//while loop
 function whileLoop (num) {
   while (num > 0) {
     console.log (--num)
