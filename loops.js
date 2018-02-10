@@ -31,7 +31,7 @@ function doWhileLoop (differentArray) {
   
   do {
     
-  --differentArray.length;
+  differentArray.length - 1;
   
   } while (differentArray.length > 0 && maybeTrue())
   
