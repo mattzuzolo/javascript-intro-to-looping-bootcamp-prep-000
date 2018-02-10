@@ -38,6 +38,3 @@ function doWhileLoop (differentArray) {
   
   return differentArray;
 }
-
-
-
