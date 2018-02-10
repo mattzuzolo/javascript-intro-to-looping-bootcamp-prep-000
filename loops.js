@@ -1,4 +1,4 @@
-//for loop
+
 function forLoop (myArray) {
   
   for ( let i = 0; i < 25; i++) {
