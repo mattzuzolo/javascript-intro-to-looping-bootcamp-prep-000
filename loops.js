@@ -30,13 +30,8 @@ function doWhileLoop (differentArray) {
 }
   
   do {
-  
-  if (differentArray.length  1) {
-    
-  }
-    
-    
-  --differentArray.length;
+
+  differentArray.pop()
   
   } while (differentArray.length > 0 && maybeTrue())
   
