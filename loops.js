@@ -5,12 +5,10 @@ function forLoop (myArray) {
  
     if (i === 1) {
       myArray.push(`I am ${i} strange loop.`);
-      console.log(myArray[i])
     }
     
     else if (i !== 1) {
       myArray.push(`I am ${i} strange loops.`);
-      console.log(myArray[i])
     }
     
   }
