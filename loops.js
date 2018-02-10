@@ -30,7 +30,10 @@ function doWhileLoop (differentArray) {
 }
   
   do {
+  
+  if (differentArray.length  1) {
     
+  }
     
     
   --differentArray.length;
